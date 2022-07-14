@@ -2,3 +2,7 @@ execution.isolation.thread.timeoutInMilliseconds
 circuitBreaker.requestVolumeThreshold
 circuitBreaker.errorThresholdPercentage
 circuitBreaker.sleepWindowInMilliseconds
+
+#bulkhead threadPoolProperties
+coreSize
+maxQueueSize
