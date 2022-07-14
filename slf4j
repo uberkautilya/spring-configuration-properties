@@ -1,0 +1,12 @@
+logging.level.com.coder=TRACE
+logging.file
+logging.file.max-size
+logging.pattern.console
+logging.pattern.dateformat
+logging.pattern.level
+logging.pattern.file
+logging.file.max-history
+logging.path
+
+
+
