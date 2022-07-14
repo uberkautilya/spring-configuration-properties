@@ -1,0 +1,5 @@
+spring.cloud.config.server.git.uri=file:///H:/My Drive/workspace/Intellij_workspace/JavaBrains/config-server/src/main/resources/git-repository
+#Legacy: spring.cloud.config.server.git.uri=${HOME}/code/configrepo
+
+#By convention, preferred port for config server
+server.port=8888
