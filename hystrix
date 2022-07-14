@@ -1,0 +1,4 @@
+execution.isolation.thread.timeoutInMilliseconds
+circuitBreaker.requestVolumeThreshold
+circuitBreaker.errorThresholdPercentage
+circuitBreaker.sleepWindowInMilliseconds
